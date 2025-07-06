@@ -1,10 +1,42 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
+  <!-- Page Title -->
+  <div class="page-title" data-aos="fade">
+    <nav class="breadcrumbs">
+      <div class="container">
+        <ol>
+          <li><a href="index.html">Home</a></li>
+          <li class="current">{{ .Slug }}</li>
+        </ol>
+      </div>
+    </nav>
+  </div><!-- End Page Title -->
 
   {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
   {{ $dateHuman := .Date | time.Format ":date_long" }}
-  <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
 
-  {{ .Content }}
+<div class="container mt-1">
+  <div class="row">
+    <div class="col-sm">
+      <header>
+        <h2 class="blog-post-title">
+          {{ .Title}}
+        </h2>
+        <div class="blog-post-date text-secondary">
+          <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+          <span rel="author">Secretaris</span>
+        </div>
+        <hr>
+      </header>
+
+      <article>
+        {{ .Content }}
+      </article>
+    </div>
+  </div>
+</div>
+
+
+
+
   {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
 {{ end }}
