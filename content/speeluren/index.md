@@ -1,9 +1,10 @@
-+++
-date = "2025-07-06T04:14:54-08:00"
-draft = false
-title = "Speeluren seizoen 2024-2025 voor volwassen"
-slug = 'speeluren'
-+++
+---
+date : "2025-07-06T04:14:54-08:00"
+draft : false
+title : "Speeluren seizoen 2024-2025 voor volwassen"
+slug : 'speeluren'
+---
+
 Een seizoen loopt van september tot juni. In het algemeen zijn dit de speelmomenten per week voor volwassenen.
 
 {{< table table table-striped table-bordered >}}

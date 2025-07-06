@@ -34,34 +34,33 @@ theme = 'gentsebc2025'
 [[menus.main]]
     identifier = 'groepen'
     name = 'Groepen'
-    pageRef = '/groepen'
     weight = 30
 
 [[menus.main]]
     parent = 'groepen'
     name = 'Jeugd'
-    pageRef = '/'
+    pageRef = '/groepen/jeugd'
     weight = 10
 
 [[menus.main]]
     parent = 'groepen'
     name = 'Volwassenen'
-    pageRef = '/'
+    pageRef = '/groepen/volwassenen'
     weight = 20
 
 [[menus.main]]
     parent = 'groepen'
     name = 'Competitie'
-    pageRef = '/'
+    pageRef = '/groepen/competitie'
     weight = 30
 
 [[menus.main]]
     parent = 'groepen'
     name = 'G-bad'
-    pageRef = '/'
+    pageRef = '/groepen/g-badminton'
     weight = 40
 
 [[menus.main]]
     name = 'Contact'
-    pageRef = '/'
+    pageRef = '/contact'
     weight = 40
