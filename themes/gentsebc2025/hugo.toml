@@ -7,16 +7,48 @@ title = 'Gentse BC'
     name = 'Home'
     pageRef = '/'
     weight = 10
+    [[menus.main.params]]
+      alternativeName = '<span class="fas fa-home"></span><br>'
 
   [[menus.main]]
-    name = 'Posts'
-    pageRef = '/posts'
+    name = 'Clubinfo'
+    pageRef = '/'
     weight = 20
 
   [[menus.main]]
-    name = 'Tags'
+    identifier = 'groepen'
+    name = 'Groepen'
     pageRef = '/tags'
     weight = 30
+
+  [[menus.main]]
+    parent = 'groepen'
+    name = 'Jeugd'
+    pageRef = '/'
+    weight = 10
+
+  [[menus.main]]
+    parent = 'groepen'
+    name = 'Volwassenen'
+    pageRef = '/'
+    weight = 20
+
+  [[menus.main]]
+    parent = 'groepen'
+    name = 'Competitie'
+    pageRef = '/'
+    weight = 30
+
+  [[menus.main]]
+    parent = 'groepen'
+    name = 'G-bad'
+    pageRef = '/'
+    weight = 40
+
+  [[menus.main]]
+    name = 'Contact'
+    pageRef = '/'
+    weight = 40
 
 [module]
   [module.hugoVersion]
