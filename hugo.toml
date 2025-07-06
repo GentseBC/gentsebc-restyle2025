@@ -2,3 +2,66 @@ baseURL = 'https://example.org/'
 languageCode = 'nl-be'
 title = 'Gentse BC'
 theme = 'gentsebc2025'
+
+[menus]
+    [[menus.main]]
+        name = 'Home'
+        pageRef = '/'
+        weight = 10
+    [[menus.main.params]]
+        alternativeName = '<span class="fas fa-home"></span><br>'
+
+[[menus.main]]
+    identifier = 'clubinfo'
+    name = 'Clubinfo'
+    pageRef = '/'
+    weight = 20
+
+[[menus.main]]
+    parent = "clubinfo"
+    name = 'Bestuur'
+    pageRef = '/clubinfo/bestuur'
+    weight = 10
+
+[[menus.main]]
+    parent = "clubinfo"
+    name = 'Documenten'
+    pageRef = '/clubinfo/documenten'
+    weight = 10
+
+
+
+[[menus.main]]
+    identifier = 'groepen'
+    name = 'Groepen'
+    pageRef = '/groepen'
+    weight = 30
+
+[[menus.main]]
+    parent = 'groepen'
+    name = 'Jeugd'
+    pageRef = '/'
+    weight = 10
+
+[[menus.main]]
+    parent = 'groepen'
+    name = 'Volwassenen'
+    pageRef = '/'
+    weight = 20
+
+[[menus.main]]
+    parent = 'groepen'
+    name = 'Competitie'
+    pageRef = '/'
+    weight = 30
+
+[[menus.main]]
+    parent = 'groepen'
+    name = 'G-bad'
+    pageRef = '/'
+    weight = 40
+
+[[menus.main]]
+    name = 'Contact'
+    pageRef = '/'
+    weight = 40
