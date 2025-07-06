@@ -18,7 +18,7 @@ title = 'Gentse BC'
   [[menus.main]]
     identifier = 'groepen'
     name = 'Groepen'
-    pageRef = '/tags'
+    pageRef = '/groepen'
     weight = 30
 
   [[menus.main]]
