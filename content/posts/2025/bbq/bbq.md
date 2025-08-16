@@ -7,6 +7,7 @@ summary_img : "/img/posts/bbq.jpg"
 event_date: "2025-08-30T16:30:00"
 event_location: "Stedelijke basisschool De Boomgaard, Bommelstraat 24, 9000 Gent"
 categories: ['event']
+author: 'Thomas'
 ---
 Dag leden van de leukste badmintonclub van Gent en omstreken.
 

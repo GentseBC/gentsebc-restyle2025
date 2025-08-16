@@ -6,7 +6,7 @@
         <img src="{{cond (isset .Params "summary_img") .Params.summary_img "/img/posts/default.jpeg" }}" class="img-fluid" alt="...">
         <div class="news-item-content">
 
-            <h3><a href="course-details.html">{{ .Title }}</a></h3>
+            <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
             <p class="description"> {{ .Summary }}</p>
 
             <div class="news-author text-end mb-3">
@@ -19,7 +19,7 @@
             </div>
 
             <div class="">
-                <a href="#" class="more-btn"><span>Lees meer</span> <i class="bi bi-chevron-right"></i></a>
+                <a href="{{ .RelPermalink }}" class="more-btn"><span>Lees meer</span> <i class="bi bi-chevron-right"></i></a>
             </div>
         </div>
     </div>
