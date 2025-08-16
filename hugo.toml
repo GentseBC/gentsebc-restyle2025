@@ -26,12 +26,16 @@ theme = 'gentsebc2025'
     name = 'Bestuur'
     pageRef = '/clubinfo/bestuur'
     weight = 10
-
 [[menus.main]]
     parent = "clubinfo"
     name = 'Documenten'
     pageRef = '/clubinfo/documenten'
     weight = 10
+[[menus.main]]
+    parent = "clubinfo"
+    name = 'Twizzit'
+    pageRef = '/clubinfo/twizzit'
+    weight = 20
 
 
 
