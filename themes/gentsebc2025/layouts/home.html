@@ -379,23 +379,10 @@
 
     <div class="row">
 
-      <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
-        <div class="event-item">
-          <img src="img/course-1.jpg" class="img-fluid" alt="...">
-          <div class="event-item-content">
-
-            <h3><a href="course-details.html">BBQ 2025</a></h3>
-            <p class="description">Summertime. Kom naar de BBQ.</p>
-
-            <p><i class="bi bi-calendar"></i> Ergens eind augustus</p>
-            <p><i class="bi bi-geo-alt"></i> Schooltje Gent</p>
-            <div class="">
-              <a href="#" class="more-btn"><span>Lees meer</span> <i class="bi bi-chevron-right"></i></a>
-            </div>
-          </div>
-        </div>
-      </div> <!-- End Event Item-->
-
+        {{ $latestArticles := (where .Site.Pages "Params.categories" "intersect" (slice "event")).ByDate.Reverse | first 3 }}
+        {{ range $latestArticles}}
+            {{ .Render "summary_compact_event" }}
+        {{ end}}
 
 
     </div>
