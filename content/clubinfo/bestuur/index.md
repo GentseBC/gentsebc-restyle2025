@@ -59,7 +59,7 @@ Onze groep trainers is razend enthousiast! Graag willen ze hun passie aan jou ov
 Naast het bestuur hebben volgende medewerkers een specifieke taak op zich genomen.
 
 De avondverantwoordelijken zijn te bereiken op volgend emailadres: avondverantwoordelijken@gentsebc.be
-    {{< container-row >}}
+{{< container-row >}}
     {{< card-in-column n="4" img="images/vero.jpg" title="Véronique Cloquet" >}}
     Avondverantwoordelijke WOENSDAG
     {{< /card-in-column >}}
