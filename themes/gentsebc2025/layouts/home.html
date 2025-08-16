@@ -356,63 +356,10 @@
 
     <div class="row">
 
-      <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
-        <div class="news-item">
-          <img src="img/course-1.jpg" class="img-fluid" alt="...">
-          <div class="news-item-content">
-
-            <h3><a href="course-details.html">Trainers gezocht</a></h3>
-            <p class="description">Wij zijn op zoek naar verschillende bestuursleden en een jeugdtrainer.</p>
-
-            <div class="news-author text-end mb-3">
-              door Secretaris, 15 oktober, 2024
-            </div>
-
-            <div class="">
-              <a href="#" class="more-btn"><span>Lees meer</span> <i class="bi bi-chevron-right"></i></a>
-            </div>
-          </div>
-        </div>
-      </div> <!-- End News Item-->
-
-      <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
-        <div class="news-item">
-          <img src="img/course-2.jpg" class="img-fluid" alt="...">
-          <div class="news-item-content">
-
-            <h3><a href="course-details.html">Trainers gezocht</a></h3>
-            <p class="description">Wij zijn op zoek naar verschillende bestuursleden en een jeugdtrainer.</p>
-
-            <div class="news-author text-end mb-3">
-              door Secretaris, 15 oktober, 2024
-            </div>
-
-            <div class="">
-              <a href="#" class="more-btn"><span>Lees meer</span> <i class="bi bi-chevron-right"></i></a>
-            </div>
-          </div>
-        </div>
-      </div> <!-- End News Item-->
-
-      <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
-        <div class="news-item">
-          <img src="img/course-3.jpg" class="img-fluid" alt="...">
-          <div class="news-item-content">
-
-            <h3><a href="course-details.html">Trainers gezocht</a></h3>
-            <p class="description">Wij zijn op zoek naar verschillende bestuursleden en een jeugdtrainer.</p>
-
-            <div class="news-author text-end mb-3">
-              door Secretaris, 15 oktober, 2024
-            </div>
-
-            <div class="">
-              <a href="#" class="more-btn"><span>Lees meer</span> <i class="bi bi-chevron-right"></i></a>
-            </div>
-          </div>
-        </div>
-      </div> <!-- End News Item-->
-
+        {{ $latestArticles := (where .Site.Pages "Params.categories" "intersect" (slice "news")).ByDate.Reverse | first 3 }}
+        {{ range $latestArticles}}
+            {{ .Render "summary_compact_news" }}
+        {{ end}}
 
     </div>
 
