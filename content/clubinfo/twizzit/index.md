@@ -3,11 +3,6 @@ title: "Twizzit"
 date: 2024-11-26T15:50:16+02:00
 draft: false
 author: Secretaris
-
-menu:
-    main:
-        parent: clubinfo
-        weight: 30
 ---
 
 
