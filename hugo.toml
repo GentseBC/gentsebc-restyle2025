@@ -7,6 +7,10 @@ theme = 'gentsebc2025'
     category = 'categories'
     tag = 'tags'
 
+[params]
+    date_format = "02 January, 2006"
+    static_content_prefix = ''
+
 [menus]
     [[menus.main]]
         name = 'Home'
