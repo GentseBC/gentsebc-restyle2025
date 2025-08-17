@@ -49,7 +49,7 @@ Onze groep trainers is razend enthousiast! Graag willen ze hun passie aan jou ov
 {{< card-in-column n="4" img="images/steven.jpeg" title="Steven Verbruggen" />}}
 {{< card-in-column n="4" img="images/joachim.jpg" title="Joachim Bonte" />}}
 {{< card-in-column n="4" img="images/pepijn.jpeg" title="Pepijn Van Rossom" />}}
-{{< card-in-column n="4" img="images/shuttle.jpg" title="Simon Van Moeseke" />}}
+{{< card-in-column n="4" img="images/simon.jpg" title="Simon Van Moeseke" />}}
 {{< card-in-column n="4" img="images/alwin.jpg" title="Alwin De Moor" />}}
 
 
