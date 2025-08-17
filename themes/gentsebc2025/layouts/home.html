@@ -106,7 +106,7 @@
               <p><i class="bi bi-geo-alt"></i> Wielerpiste op woensdag</p>
               <p><i class="bi bi-geo-alt"></i> Bourgoyen op zaterdag</p>
               <div class="text-center">
-                <a href="#" class="more-btn"><span>Lees meer</span> <i class="bi bi-chevron-right"></i></a>
+                <a href="{{ .Ref (dict "path" "/groepen/jeugd") }}" class="more-btn"><span>Lees meer</span> <i class="bi bi-chevron-right"></i></a>
               </div>
             </div>
           </div><!-- End Icon Box -->
@@ -117,6 +117,9 @@
               <h4>G-bad</h4>
               <p>Voor mensen met een lichte mentale beperking vanaf 15j hebben we een speelmoment op zaterdag voormiddag.</p>
               <p><i class="bi bi-geo-alt"></i> Topsporthal</p>
+              <div class="text-center">
+                 <a href="{{ .Ref (dict "path" "/groepen/g-badminton") }}" class="more-btn"><span>Lees meer</span> <i class="bi bi-chevron-right"></i></a>
+              </div>
             </div>
           </div><!-- End Icon Box -->
 
@@ -127,6 +130,9 @@
               <p>Zowel voor zowel recreatieve als competitie spelers bieden we wekelijks 4 speelmomenten aan.</p>
               <p><i class="bi bi-geo-alt"></i> Wielerpiste  op maandag,woensdag & vrijdag</p>
               <p><i class="bi bi-geo-alt"></i> Bourgoyen  op zondag</p>
+              <div class="text-center">
+                  <a href="{{ .Ref (dict "path" "/groepen/volwassenen") }}" class="more-btn"><span>Lees meer</span> <i class="bi bi-chevron-right"></i></a>
+              </div>
             </div>
           </div><!-- End Icon Box -->
 
@@ -135,6 +141,10 @@
               <i class="bi bi-inboxes"></i>
               <h4>Competitie</h4>
               <p>Voor wie graag ook eens in teamverband tegen spelers van andere clubs willen spelen. </p>
+              <div class="text-center">
+                    <a href="{{ .Ref (dict "path" "/groepen/competitie") }}" class="more-btn"><span>Lees meer</span> <i class="bi bi-chevron-right"></i></a>
+              </div>
+
             </div>
           </div><!-- End Icon Box -->
 
