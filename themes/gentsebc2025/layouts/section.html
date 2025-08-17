@@ -1,8 +1,53 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
-  {{ .Content }}
-  {{ range .Pages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-    {{ .Summary }}
-  {{ end }}
+<!-- Page Title -->
+<div class="page-title" data-aos="fade">
+    <nav class="breadcrumbs">
+        <div class="container">
+            <ol>
+                {{- range .Ancestors.Reverse }}
+                <li class="">
+                    <a href="{{ .RelPermalink }}">{{ if .IsHome }} Home {{ else }}{{ .Title }}{{ end }}</a>
+                </li>
+                <span class="" aria-hidden="true">&nbsp;»&nbsp</span>
+                {{- end }}
+                <li class="active">
+                    {{ .Title }}
+                </li>
+            </ol>
+
+
+
+        </div>
+    </nav>
+</div><!-- End Page Title -->
+
+{{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
+{{ $dateHuman := .Date | time.Format ":date_long" }}
+{{ $author := .Params.author | default .Site.Params.author }}
+
+<div class="container mt-1">
+    <div class="row">
+        <div class="col-sm">
+            <header>
+                <h2 class="blog-post-title">
+                    {{ .Title}}
+                </h2>
+                <div class="blog-post-date text-secondary">
+                    <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+                    <span rel="author">{{ $author }}</span>
+                </div>
+                <hr>
+            </header>
+
+            <article>
+                {{ .Content }}
+            </article>
+        </div>
+    </div>
+</div>
+
+
+
+
+{{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
 {{ end }}
