@@ -11,6 +11,10 @@ theme = 'gentsebc2025'
     date_format = "02 January, 2006"
     static_content_prefix = ''
 
+[markup.goldmark.renderer]
+    unsafe= true
+
+
 [menus]
     [[menus.main]]
         name = 'Home'
