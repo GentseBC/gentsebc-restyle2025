@@ -64,9 +64,12 @@ Alle spelers van de Gentse BC krijgen de kans om competitie te spelen. Elk jaar 
 
 Bij de Gentse BC is het ook mogelijk om enkel tornooien (welke ook in aanmerking komen voor een klassement) te spelen zonder competitie verplichting.
 
+Meer info kan je terugvinden bij [groepen > competitie]({{< Ref "/groepen/competitie" >}}) terugvinden.
 # Trainingen
 
-Jaarlijks worden een aantal trainingssessies georganiseerd, toegankelijk voor wie lid is bij Gentse BC. Deze lessenreeks vindt 2x per jaar plaats, van september tot december en van januari tot mei (ongeveer 12 lessen per reeks), voor zowel beginners als gevorderden. Meer informatie zal je terugvinden op deze website in een nieuwsbericht en een bericht op [Twizzit]({{< Ref "/clubinfo/twizzit" >}}). Wees er op tijd bij om je in te schrijven. Hou daarom de website/facebookpagina in de gaten!
+Jaarlijks worden een aantal trainingssessies georganiseerd, toegankelijk voor wie lid is bij Gentse BC. Deze lessenreeks vindt 2x per jaar plaats, van september tot december en van januari tot mei (ongeveer 12 lessen per reeks), voor zowel beginners als gevorderden. Meer informatie zal je terugvinden via een  deze website en via een bericht op [Twizzit]({{< Ref "/clubinfo/twizzit" >}}). Wees er op tijd bij om je in te schrijven. Hou daarom de website/facebookpagina in de gaten!
+
+Meer details en fotos kan je [hier]({{< Ref "training" >}}) terugvinden.
 
 # Clubkampioenschap
 

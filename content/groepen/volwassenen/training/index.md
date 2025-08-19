@@ -7,7 +7,7 @@ author: Secretaris
 
 Jaarlijks worden er twee trainingssessies georganiseerd voor de *clubleden*. Enkel wie lid is van Gentse BC en in orde is met het jaarlijkse lidgeld kan hieran deelnemen.
 Deze training staat open voor zowel competitiespelers als recreanten. Een eerste reeks gaat door in het najaar (startend in september). De tweede reeks start in januari, telkens op vrijdagavond. <br>
- Via de nieuwsbrief worden alle leden tijdig hiervan verwittigd met inschrijvingsmogelijkheid. Op voorhand inschrijven is noodzakelijk en plaatsen zijn beperkt. First come, first serve principe. 
+Via een bericht op [Twizzit]({{< Ref "/clubinfo/twizzit" >}}) worden alle leden tijdig hiervan verwittigd met inschrijvingsmogelijkheid. Op voorhand inschrijven is noodzakelijk en plaatsen zijn beperkt. First come, first serve principe. 
 
 <br><br>
 # Trainingsmateriaal
@@ -33,6 +33,8 @@ Gevorderde deelnemers kunnen hier kennis maken met o.a. spinshots in het voorvel
 {{< nano-gallery  >}}
 
   {{< nano-album match-dir="trainer_steven/*.jpg" front-img="trainer_steven/dz-lebad.jpg"id="12" title="Trainer Steven">}}
+
+  {{< nano-album match-dir="najaar2020_voorjaar2025/*.jpeg" id="12" title="najaar 2020 tem voorjaar 2025">}}
 
   {{< nano-album match-dir="voorjaar_2020/*.jpg" id="11" title="Voorjaar 2020">}}
 
