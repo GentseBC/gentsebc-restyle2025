@@ -1,5 +1,6 @@
 .hugo_build.lock
-public/
 .idea
 wp-config.php
 resources/_gen
+.DS_Store
+public/
