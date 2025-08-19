@@ -45,23 +45,23 @@ Goede afspraken maken goede vrienden.
     {{< /accordion-item >}}
 
     {{< accordion-item parent_id="1" id="2" title="GentseBC gedragscodes bestuurder (PDF)" >}}
-        {{< embed-pdf url="/docs/gedragscodes/Gentse BC-gedragscodes-bestuurder.pdf" >}}
+    {{< embed-pdf url="/docs/gedragscodes/GentseBC-gedragscodes-bestuurder.pdf" >}}
     {{< /accordion-item >}}
 
     {{< accordion-item parent_id="1" id="3" title="GentseBC gedragscodes ouders (PDF)" >}}
-        {{< embed-pdf url="/docs/gedragscodes/Gentse BC-gedragscodes-ouders.pdf" >}}
+        {{< embed-pdf url="/docs/gedragscodes/GentseBC-gedragscodes-ouders.pdf" >}}
     {{< /accordion-item >}}
 
     {{< accordion-item parent_id="1" id="4" title="GentseBC gedragscodes sportbegeleider (PDF)" >}}
-        {{< embed-pdf url="/docs/gedragscodes/Gentse BC-gedragscodes-sportbegeleider.pdf" >}}
+        {{< embed-pdf url="/docs/gedragscodes/GentseBC-gedragscodes-sportbegeleider.pdf" >}}
     {{< /accordion-item >}}
 
     {{< accordion-item parent_id="1" id="5" title="GentseBC gedragscodes sporter (PDF)" >}}
-        {{< embed-pdf url="/docs/gedragscodes/Gentse BC-gedragscodes-sporter.pdf" >}}
+        {{< embed-pdf url="/docs/gedragscodes/GentseBC-gedragscodes-sporter.pdf" >}}
     {{< /accordion-item >}}
 
     {{< accordion-item parent_id="1" id="6" title="GentseBC gedragscodes toeschouwer (PDF)" >}}
-        {{< embed-pdf url="/docs/gedragscodes/Gentse BC-gedragscodes-toeschouwer.pdf" >}}
+        {{< embed-pdf url="/docs/gedragscodes/GentseBC-gedragscodes-toeschouwer.pdf" >}}
     {{< /accordion-item >}}
 
     {{< accordion-item parent_id="1" id="7" title="Privacy" is_inner_markdown="true" >}}
