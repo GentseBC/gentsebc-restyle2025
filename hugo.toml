@@ -50,7 +50,7 @@ theme = 'gentsebc2025'
 [[menus.main]]
     identifier = 'groepen'
     name = 'Groepen'
-    weight = 30
+    weight = 20
 
 [[menus.main]]
     parent = 'groepen'
@@ -79,4 +79,4 @@ theme = 'gentsebc2025'
 [[menus.main]]
     name = 'Contact'
     pageRef = '/contact'
-    weight = 40
+    weight = 30
