@@ -6,6 +6,21 @@
     <description>Recent content in Categories on Gentse BC</description>
     <generator>Hugo</generator>
     <language>nl-be</language>
+    <lastBuildDate>Sun, 06 Jul 2025 04:14:54 -0800</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Event</title>
+      <link>http://localhost:1313/categories/event/</link>
+      <pubDate>Sun, 06 Jul 2025 04:14:54 -0800</pubDate>
+      <guid>http://localhost:1313/categories/event/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>News</title>
+      <link>http://localhost:1313/categories/news/</link>
+      <pubDate>Sat, 07 Jun 2025 10:07:44 +0200</pubDate>
+      <guid>http://localhost:1313/categories/news/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

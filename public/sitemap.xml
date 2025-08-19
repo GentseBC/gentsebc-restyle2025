@@ -2,6 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/posts/2025/bbq/bbq/</loc>
+    <lastmod>2025-07-06T04:14:54-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-07-06T04:14:54-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/clubinfo/</loc>
+    <lastmod>2025-07-06T04:14:54-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/groepen/competitie/</loc>
+    <lastmod>2025-07-06T04:14:54-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/contact/</loc>
+    <lastmod>2025-07-06T04:14:54-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/clubinfo/documenten/</loc>
+    <lastmod>2025-07-06T04:14:54-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/event/</loc>
+    <lastmod>2025-07-06T04:14:54-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/groepen/g-badminton/</loc>
+    <lastmod>2025-07-06T04:14:54-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/clubinfo/bestuur/</loc>
+    <lastmod>2025-07-06T04:14:54-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/groepen/</loc>
+    <lastmod>2025-07-06T04:14:54-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/groepen/jeugd/</loc>
+    <lastmod>2025-07-06T04:14:54-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/speeluren/</loc>
+    <lastmod>2025-07-06T04:14:54-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/groepen/competitie/tornooitips/</loc>
+    <lastmod>2025-07-06T04:14:54-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/groepen/volwassenen/</loc>
+    <lastmod>2025-07-06T04:14:54-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/word-lid/</loc>
+    <lastmod>2025-07-06T04:14:54-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2023/bestuur-gezocht/</loc>
+    <lastmod>2025-06-07T10:07:44+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/news/</loc>
+    <lastmod>2025-06-07T10:07:44+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/groepen/volwassenen/intromoment/</loc>
+    <lastmod>2025-02-08T15:51:40+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/clubinfo/twizzit/</loc>
+    <lastmod>2024-11-26T15:50:16+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2023/shirts/shirts/</loc>
+    <lastmod>2023-10-28T10:07:44+02:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/blue/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
@@ -29,6 +89,16 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/groepen/volwassenen/training/</loc>
+    <lastmod>2022-12-25T15:52:17+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/groepen/volwassenen/clubkampioenschap/</loc>
+    <lastmod>2020-05-10T09:23:22+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/sponsors/badmintonland/</loc>
+    <lastmod>2017-01-10T15:50:16+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/sponsors/</loc>
+    <lastmod>2017-01-10T15:50:16+02:00</lastmod>
   </url>
 </urlset>

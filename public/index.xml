@@ -6,8 +6,99 @@
     <description>Recent content in Home on Gentse BC</description>
     <generator>Hugo</generator>
     <language>nl-be</language>
-    <lastBuildDate>Wed, 15 Mar 2023 11:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 06 Jul 2025 04:14:54 -0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BBQ 2025</title>
+      <link>http://localhost:1313/posts/2025/bbq/bbq/</link>
+      <pubDate>Sun, 06 Jul 2025 04:14:54 -0800</pubDate>
+      <guid>http://localhost:1313/posts/2025/bbq/bbq/</guid>
+      <description>Summertime. Schrijf je snel in voor onze gezellige BBQ.</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Sun, 06 Jul 2025 04:14:54 -0800</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;Heb je een vraag? Contacteer ons!&lt;br&gt;&#xA;Je kan ons het best een e-mail sturen, we antwoorden asap. Of spreek ons aan op een speelmoment.&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Alle vragen ivm&lt;/th&gt;&#xA;          &lt;th&gt;e-mail naar&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Jeugd&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;mailto:jeugd@gentsebc.be&#34;&gt;jeugd@gentsebc.be&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Competitie&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;mailto:competitie@gentse.be&#34;&gt;competitie@gentse.be&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;G-sport&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;mailto:gbadminton@gentsebc.be&#34;&gt;gbadminton@gentsebc.be&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;financiën (betalingen, lidgeld)&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;mailto:penningmeester@gentsebc.be&#34;&gt;penningmeester@gentsebc.be&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;API (grensoverschrijdend gedrag, pesten, distriminatie, &amp;hellip;)&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;mailto:api@gentsebc.be&#34;&gt;api@gentsebc.be&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;Voor alle andere vragen en verder info kan je terecht op &lt;a href=&#34;mailto:info@gentsebc.be&#34;&gt;info@gentsebc.be&lt;/a&gt; of gebruik onderstaand formulier&lt;/p&gt;&#xA;&lt;script src=&#34;https://www.google.com/recaptcha/api.js?hl=nl&#34; async defer&gt;&lt;/script&gt;&#xA;&#xA;&lt;form class=&#34;requires-validation&#34; novalidate method=&#34;post&#34;&gt;&#xA;    &lt;div class=&#34;mb-3&#34;&gt;&#xA;        &lt;label for=&#34;name&#34; class=&#34;form-label&#34;&gt;Naam *&lt;/label&gt;&#xA;        &lt;input type=&#34;text&#34; class=&#34;form-control&#34; id=&#34;name&#34; required&gt;&#xA;        &lt;div class=&#34;invalid-feedback&#34;&gt;&#xA;            Gelieve je naam op te geven.&#xA;          &lt;/div&gt;        &#xA;      &lt;/div&gt;    &#xA;    &lt;div class=&#34;mb-3&#34;&gt;&#xA;      &lt;label for=&#34;email&#34; class=&#34;form-label&#34;&gt;Email adres *&lt;/label&gt;&#xA;      &lt;input type=&#34;email&#34; class=&#34;form-control&#34; id=&#34;email&#34; aria-describedby=&#34;emailHelp&#34; required&gt;&#xA;      &lt;div id=&#34;emailHelp&#34; class=&#34;form-text&#34;&gt;Je email adres wordt niet gedeeld met derden.&lt;/div&gt;&#xA;      &lt;div class=&#34;invalid-feedback&#34;&gt;&#xA;          Om feedback te kunnen geven hebben we een email adres nodig.&#xA;      &lt;/div&gt;        &#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;mb-3&#34;&gt;&#xA;        &lt;label for=&#34;message&#34; class=&#34;form-label&#34;&gt;Bericht *&lt;/label&gt;&#xA;        &lt;textarea class=&#34;form-control&#34; id=&#34;message&#34; rows=&#34;10&#34; required&gt;&lt;/textarea&gt;&#xA;        &lt;div class=&#34;invalid-feedback&#34;&gt;&#xA;            Dit veld moet ingevuld worden.&#xA;        &lt;/div&gt;          &#xA;     &lt;/div&gt;    &#xA;     &lt;div class=&#34;g-recaptcha&#34; data-sitekey=&#34;6Ldy09ohAAAAAPLlQnKLrbSD2vSoO_cVr-4jYBUH&#34;&gt;&lt;/div&gt;&#xA;     &lt;br/&gt;&#xA;    &lt;button type=&#34;submit&#34; class=&#34;btn btn-primary&#34; id=&#34;form-submit-btn-id&#34;&gt;Verstuur&lt;/button&gt;&#xA;  &lt;/form&gt;&#xA;&#xA;  &lt;script&gt;&#xA;    (function () {&#xA;    &#39;use strict&#39;&#xA;    const forms = document.querySelectorAll(&#39;.requires-validation&#39;)&#xA;    Array.from(forms)&#xA;      .forEach(function (form) {&#xA;        form.addEventListener(&#39;submit&#39;, function (event) {&#xA;        &#xA;        &#xA;        var response = grecaptcha.getResponse();&#xA;&#xA;         if(response.length == 0){&#xA;             document.querySelector(&#39;.g-recaptcha&gt;div&#39;).classList.add(&#39;border&#39;, &#39;border-danger&#39;);&#xA;             event.preventDefault();&#xA;             event.stopPropagation();&#xA;        } else {&#xA;          document.querySelector(&#39;.g-recaptcha&gt;div&#39;).classList.remove(&#39;border&#39;, &#39;border-danger&#39;);&#xA;        }            &#xA;        let isValidForm = form.checkValidity();&#xA;        event.preventDefault()&#xA;        event.stopPropagation()&#xA;        &#xA;        form.classList.add(&#39;was-validated&#39;)&#xA;&#xA;  &#xA;        document.getElementById(&#39;form-submit-btn-id&#39;).classList.add(&#39;disabled&#39;);;&#xA;&#xA;        if(isValidForm) {&#xA;            let data = {&#xA;              &#34;name&#34;: document.getElementById(&#34;name&#34;).value,&#xA;              &#34;email&#34;: document.getElementById(&#34;email&#34;).value,&#xA;              &#34;message&#34;: document.getElementById(&#34;message&#34;).value,&#xA;              &#34;g-recaptcha-response&#34;: document.getElementById(&#34;g-recaptcha-response&#34;).value,&#xA;            };&#xA;&#xA;            fetch(&#34;/mashup/form-handling/contactus&#34;, {&#xA;            method: &#34;POST&#34;,&#xA;            headers: {&#39;Content-Type&#39;: &#39;application/json&#39;}, &#xA;            body: JSON.stringify(data)&#xA;            })&#xA;            .then((response) =&gt; response.json())&#xA;            .then(res =&gt; {&#xA;                &#xA;                document.getElementById(&#39;form-submit-btn-id&#39;).textContent =  (res.success ? &#39;Vraag verstuurd!&#39; : &#39;Vraag kon niet worden verstuurd.&#39;);&#xA;            });&#xA;        }&#xA;&#xA;        }, false)&#xA;      })&#xA;    })()&#xA;  &lt;/script&gt;</description>
+    </item>
+    <item>
+      <title>Documenten</title>
+      <link>http://localhost:1313/clubinfo/documenten/</link>
+      <pubDate>Sun, 06 Jul 2025 04:14:54 -0800</pubDate>
+      <guid>http://localhost:1313/clubinfo/documenten/</guid>
+      <description>&lt;h1 id=&#34;verzekering-bij-ongevallen&#34;&gt;Verzekering bij ongevallen&lt;/h1&gt;&#xA;&lt;p&gt;De Gentse BC is verzekerd voor alle ongevallen die gebeuren op de officiële speelmomenten of indien een clublid een ongeval kreeg op weg naar huis (op voorwaarde dat er geen grote omweg wordt gemaakt). De verzekering loopt via Badminton Vlaanderen. De verzekeraar is “Arena”. Je hebt altijd een getuige nodig die jouw ongeval bevestigt.&lt;/p&gt;&#xA;&lt;p&gt;Bij tussenkomst van de mutualiteit is de waarborg €375 per ongeval, tot 150% van het tarief van het RIZIV. Daarnaast dekken wij ook de kosten voor brillen/contactlenzen, maar enkel bij ongevallen waarbij er sprake is van vastgesteld lichamelijk letsel. Hierbij geldt een maximum van €500 per ongeval.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>G-badminton</title>
+      <link>http://localhost:1313/groepen/g-badminton/</link>
+      <pubDate>Sun, 06 Jul 2025 04:14:54 -0800</pubDate>
+      <guid>http://localhost:1313/groepen/g-badminton/</guid>
+      <description>&lt;div class=&#34;alert alert-info&#34; role=&#34;alert&#34;&gt;&#xA;    &lt;p&gt;&lt;strong&gt;Voor wie?&lt;/strong&gt; voor mensen met een lichte mentale beperking vanaf 15 jaar&lt;br&gt;&#xA;&lt;strong&gt;Wanneer en waar?&lt;/strong&gt; op zaterdag van 10h00 tem 12h00 in Topsporthal, Zuiderlaan 14, 9000 Gent (eerste verdieping)&lt;/p&gt;&#xA;&lt;table class=&#34;table&#34;&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Lidgeld&lt;/th&gt;&#xA;          &lt;th&gt;seizoen 2025-2026&lt;/th&gt;&#xA;          &lt;th&gt;G-badmintonner&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;1 sept - 31 juni&lt;/td&gt;&#xA;          &lt;td&gt;volledig seizoen&lt;/td&gt;&#xA;          &lt;td&gt;80 €&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;1 jan - 31 juni&lt;/td&gt;&#xA;          &lt;td&gt;3/4 seizoen&lt;/td&gt;&#xA;          &lt;td&gt;55 €&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;/div&gt;&#xA;&lt;h2 id=&#34;praktisch&#34;&gt;Praktisch&lt;/h2&gt;&#xA;&lt;p&gt;Speeldagen en afspraken: kalender wordt apart doorgemaild en beschikbaar op &lt;a href=&#34;http://localhost:1313/clubinfo/twizzit/&#34;&gt;Twizzit&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;We hopen dat jullie komend seizoen terug van de partij zullen zijn en verwelkomen graag ook nieuwe spelers!&#xA;Dus ken je iemand die misschien ook zin heeft om eens vrijblijvend te komen proberen, dan mag je het mailadres &lt;a href=&#34;mailto:gbadminton@gentsebc.be&#34;&gt;gbadminton@gentsebc.be&lt;/a&gt; zeker doorgeven. Of breng je vriend(in)/kennis mee naar een training!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gentse BC bestuur en medewerkers</title>
+      <link>http://localhost:1313/clubinfo/bestuur/</link>
+      <pubDate>Sun, 06 Jul 2025 04:14:54 -0800</pubDate>
+      <guid>http://localhost:1313/clubinfo/bestuur/</guid>
+      <description>&lt;p&gt;Het bestuur van de Gentse Badmintonclub vzw bestaat uit enkele gepassioneerde mensen die een stuk van hun vrije tijd opofferen aan de organisatie en administratie. Onze club draait voor en door vrijwilligers. Hulp en ondersteuning vanuit expertise is altijd welkom (vb. events, admin, hulp op tornooien,…) dus laat je zeker horen.&lt;/p&gt;&#xA;&lt;p&gt;Heb je een vraag, een probleem of wil je je mening over iets kwijt? Kijk op deze website of kom gerust naar ons toe op een speelavond, schrijf ons een mailtje of bel ons op. Wij helpen je graag verder. Tot binnenkort!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Jeugd</title>
+      <link>http://localhost:1313/groepen/jeugd/</link>
+      <pubDate>Sun, 06 Jul 2025 04:14:54 -0800</pubDate>
+      <guid>http://localhost:1313/groepen/jeugd/</guid>
+      <description>&lt;div class=&#34;alert alert-info&#34; role=&#34;alert&#34;&gt;&#xA;    &lt;p&gt;&lt;strong&gt;Voor wie?&lt;/strong&gt; Kinderen en jongeren vanaf 8 jaar tem. 18j (gemeten op 1 augustus voor start van het seizoen). Zowel recreatief als competitief.&lt;br&gt;&#xA;&lt;strong&gt;Wanneer en waar?&lt;/strong&gt; elke woensdag van 18u30 tem 20u00 in de Sporthal Wielerpiste Eddy Merckx, Blaarmeersen, Gent. Op zaterdag is er een extra speelmoment voor kinderen vanaf 10jaar van 10u00 tem. 12u00 in Sporthal Bourgoyen, Gent.&lt;/p&gt;&#xA;&lt;table class=&#34;table&#34;&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Lidgeld&lt;/th&gt;&#xA;          &lt;th&gt;Jeugd -18, 1 speelmoment&lt;/th&gt;&#xA;          &lt;th&gt;Jeugd -18, 2 speelmomenten&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;volledig seizoen&lt;/td&gt;&#xA;          &lt;td&gt;105 €&lt;/td&gt;&#xA;          &lt;td&gt;145 €&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&lt;div class=&#34;alert alert-danger&#34; role=&#34;alert&#34;&gt;&#xA;    &lt;h3 id=&#34;inschrijvingsstop&#34;&gt;Inschrijvingsstop&lt;/h3&gt;&#xA;&lt;p&gt;Onze werking draait heel goed met als gevolg dat we volzet zijn voor het seizoen 2025-2026. Jammergenoeg moeten we elk jaar kinderen ontgoochelen, maar helaas zitten onze trainers en zalen momenteel aan hun maximum capaciteit. Op het einde van elk seizoen (mei/juni) bekijken we hoeveel vrije plaatsen er zijn. We organiseren ook enkele testmomenten voor geïnteresseerden met mogelijkheid tot inschrijven eind mei/juni. Hou dus zeker onze website in te gaten indien je volgend jaar wil starten met badminton.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Speeluren seizoen 2024-2025 voor volwassen</title>
+      <link>http://localhost:1313/speeluren/</link>
+      <pubDate>Sun, 06 Jul 2025 04:14:54 -0800</pubDate>
+      <guid>http://localhost:1313/speeluren/</guid>
+      <description>&lt;p&gt;Een seizoen loopt van september tot juni. In het algemeen zijn dit de speelmomenten per week voor volwassenen.&lt;/p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;table class=&#34;table&#34;&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Dag&lt;/th&gt;&#xA;          &lt;th&gt;Uren&lt;/th&gt;&#xA;          &lt;th&gt;Locatie&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;maandag&lt;/td&gt;&#xA;          &lt;td&gt;20u00-22u00&lt;/td&gt;&#xA;          &lt;td&gt;Wielerpiste (6 velden)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;woensdag&lt;/td&gt;&#xA;          &lt;td&gt;20u00-22u00&lt;/td&gt;&#xA;          &lt;td&gt;Wielerpiste (volledig, 12 velden)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;vrijdag&lt;/td&gt;&#xA;          &lt;td&gt;19u00-22u00&lt;/td&gt;&#xA;          &lt;td&gt;Wielerpiste (volledig, 12 velden)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;zondag&lt;/td&gt;&#xA;          &lt;td&gt;19u00-22u00&lt;/td&gt;&#xA;          &lt;td&gt;Bourgoyen  (volledig, 12 velden)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&#xA;&lt;p&gt;Iedereen komt wanneer, zolang en zovaak men wil. Er zijn geen verplichtingen.&lt;/p&gt;&#xA;&lt;p&gt;We vragen wel dat je als clublid speelt, m.a.w. dat iedereen met zowat iedereen speelt (van +/- hetzelfde niveau). Vrienden die enkel wat onder elkaar willen spelen worden niet toegelaten.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tornooi tips</title>
+      <link>http://localhost:1313/groepen/competitie/tornooitips/</link>
+      <pubDate>Sun, 06 Jul 2025 04:14:54 -0800</pubDate>
+      <guid>http://localhost:1313/groepen/competitie/tornooitips/</guid>
+      <description>&lt;p&gt;Hallo jumpsmashers,&lt;/p&gt;&#xA;&lt;p&gt;Veel gestelde vragen en tips bij tornooien… Was het maar zo simpel. Het gaat natuurlijk om veel meer. Zo zou in elk antwoord het woordje ‘planning’ kunnen terugkomen. Dus geef ik daar wat uitleg over. Verder beschouw ik badminton als een (long) ‘life- time-activity’. En daar komen vroeg of laat enkele sportieve verwachtingen bij. Vandaar eerst de volgende vragen die u zelf beantwoordt !&lt;/p&gt;&#xA;&lt;h1 id=&#34;wat-zijn-mijn-ambities&#34;&gt;Wat zijn mijn ambities?&lt;/h1&gt;&#xA;&lt;p&gt;Welke doelen zouden realistisch zijn, rekening houdend met m’n talent en huidig niveau?&#xA;Hoeveel tijd kan ik aan badminton spenderen, rekening houdend met m’n werkuren, familie en ander sociaal leven?&#xA;Kan ik het me permitteren?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Word lid</title>
+      <link>http://localhost:1313/word-lid/</link>
+      <pubDate>Sun, 06 Jul 2025 04:14:54 -0800</pubDate>
+      <guid>http://localhost:1313/word-lid/</guid>
+      <description>&lt;h3 id=&#34;volwassenen-en-g-sport&#34;&gt;Volwassenen en G-sport&lt;/h3&gt;&#xA;&lt;p&gt;Wens je lid te worden van Gentse BC?  Gebruik dan het &lt;a href=&#34;https://app.twizzit.com/go/gentsebc2526&#34;&gt;inschrijvingsformulier op Twizzit&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&#xA;&#xA;&lt;div class=&#34;alert alert-danger&#34; role=&#34;alert&#34;&gt;&#xA;    Gelieve enkel dit formulier in te vullen indien je definitief lid wenst te worden, aangezien hiermee jouw lidmaatschap bij de Badminton Federatie wordt vastgelegd.&#xA;&lt;/div&gt;&#xA;Ben je nog niet zeker of je wil aansluiten?  Je mag 3x gratis proefspelen :)&lt;/p&gt;&#xA;&lt;h3 id=&#34;jeugd&#34;&gt;Jeugd&lt;/h3&gt;&#xA;&#xA;&#xA;&lt;div class=&#34;alert alert-danger&#34; role=&#34;alert&#34;&gt;&#xA;    Onze werking draait heel goed met als gevolg dat we volzet zijn voor het seizoen 2025-2026.&lt;br&gt;&#xA;Helaas zitten onze trainers en zalen momenteel aan hun maximum capaciteit.&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Medewerkers gezocht</title>
+      <link>http://localhost:1313/posts/2023/bestuur-gezocht/</link>
+      <pubDate>Sat, 07 Jun 2025 10:07:44 +0200</pubDate>
+      <guid>http://localhost:1313/posts/2023/bestuur-gezocht/</guid>
+      <description>We zijn op zoek naar verschillende bestuursleden en een jeugdtrainer.</description>
+    </item>
+    <item>
+      <title>Introductiemomenten</title>
+      <link>http://localhost:1313/groepen/volwassenen/intromoment/</link>
+      <pubDate>Sat, 08 Feb 2025 15:51:40 +0200</pubDate>
+      <guid>http://localhost:1313/groepen/volwassenen/intromoment/</guid>
+      <description>&lt;p&gt;Zin om eens te mee spelen en ook de andere “nieuwelingen” van Gentse BC te ontmoeten?&lt;/p&gt;&#xA;&lt;p&gt;We beseffen dat het intimiderend kan zijn om als nieuw lid een onbekende speler uit te nodigen voor een partijtje badminton. Daarom nemen we graag de tijd om onze nieuwe of geïnteresseerde leden te ontvangen in de club. Op deze introductiemomenten krijg je informatie over onze club, aansluitend met speelgelegenheid en het opsnuiven van de sfeer op het veld. Kom dus meteen naar de badmintonvelden (of vraag aan de zaalwachter waar je ons kan vinden).&#xA;Schrijf je dus snel in op één van de introductiemomenten in de Wielerpiste Eddy Merckx via het &lt;a href=&#34;https://app.twizzit.com/v2/form/djlnWGNXRTI5Mzl1V29RdWFEMjViQT09&#34;&gt;inschrijvingsformulier op Twizzit&lt;/a&gt; !&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Twizzit</title>
+      <link>http://localhost:1313/clubinfo/twizzit/</link>
+      <pubDate>Tue, 26 Nov 2024 15:50:16 +0200</pubDate>
+      <guid>http://localhost:1313/clubinfo/twizzit/</guid>
+      <description>&lt;h2 id=&#34;wat-is-twizzit&#34;&gt;Wat is Twizzit.&lt;/h2&gt;&#xA;&lt;p&gt;Gentse BC maakt voor haar communicatie en inschrijvingen gebruik van Twizzit. Twizzit is toegankelijk via een browser online maar heeft ook een app op je smartphone. Iedereen die is ingeschreven bij de Gentse BC kan een account aanmaken.&lt;/p&gt;&#xA;&lt;h2 id=&#34;belangrijk--gegevens-controleren-en-aanpassen&#34;&gt;BELANGRIJK:  gegevens controleren en aanpassen&lt;/h2&gt;&#xA;&lt;p&gt;Bij de overstap naar Twizzit heeft BadmintonVlaanderen alle accounts aangemaakt. Het is dus mogelijk dat de gegevens verschillen van diegene die bekend waren bij Gentse BC. Kijk dus zeker alle gegevens goed na, en zeker gsmnr, emailadres, nationaliteit en woonadres. Zonder de juiste gegevens kunnen wij jou ook niet meer contacteren!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nieuwe shirts verkrijgbaar</title>
+      <link>http://localhost:1313/posts/2023/shirts/shirts/</link>
+      <pubDate>Sat, 28 Oct 2023 10:07:44 +0200</pubDate>
+      <guid>http://localhost:1313/posts/2023/shirts/shirts/</guid>
+      <description>Splinternieuwe, hoogwaardige clubshirts terug op voorraad.</description>
+    </item>
     <item>
       <title>Post 3</title>
       <link>http://localhost:1313/posts/post-3/</link>
@@ -28,6 +119,27 @@
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
       <guid>http://localhost:1313/posts/post-1/</guid>
       <description>&lt;p&gt;Tempor proident minim aliquip reprehenderit dolor et ad anim Lorem duis sint eiusmod. Labore ut ea duis dolor. Incididunt consectetur proident qui occaecat incididunt do nisi Lorem. Tempor do laborum elit laboris excepteur eiusmod do. Eiusmod nisi excepteur ut amet pariatur adipisicing Lorem.&lt;/p&gt;&#xA;&lt;p&gt;Occaecat nulla excepteur dolore excepteur duis eiusmod ullamco officia anim in voluptate ea occaecat officia. Cillum sint esse velit ea officia minim fugiat. Elit ea esse id aliquip pariatur cupidatat id duis minim incididunt ea ea. Anim ut duis sunt nisi. Culpa cillum sit voluptate voluptate eiusmod dolor. Enim nisi Lorem ipsum irure est excepteur voluptate eu in enim nisi. Nostrud ipsum Lorem anim sint labore consequat do.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Training</title>
+      <link>http://localhost:1313/groepen/volwassenen/training/</link>
+      <pubDate>Sun, 25 Dec 2022 15:52:17 +0200</pubDate>
+      <guid>http://localhost:1313/groepen/volwassenen/training/</guid>
+      <description>&lt;p&gt;Jaarlijks worden er twee trainingssessies georganiseerd voor de &lt;em&gt;clubleden&lt;/em&gt;. Enkel wie lid is van Gentse BC en in orde is met het jaarlijkse lidgeld kan hieran deelnemen.&#xA;Deze training staat open voor zowel competitiespelers als recreanten. Een eerste reeks gaat door in het najaar (startend in september). De tweede reeks start in januari, telkens op vrijdagavond. &lt;br&gt;&#xA;Via de nieuwsbrief worden alle leden tijdig hiervan verwittigd met inschrijvingsmogelijkheid. Op voorhand inschrijven is noodzakelijk en plaatsen zijn beperkt. First come, first serve principe.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Clubkampioenschap</title>
+      <link>http://localhost:1313/groepen/volwassenen/clubkampioenschap/</link>
+      <pubDate>Sun, 10 May 2020 09:23:22 +0200</pubDate>
+      <guid>http://localhost:1313/groepen/volwassenen/clubkampioenschap/</guid>
+      <description>&lt;p&gt;Het clubkampioenschap (CK) is in de eerste plaats bedoeld voor alle Gentse BC spelers, die eens voor “echt” tegen elkaar willen spelen of die eens een aantal spelers willen uitdagen. Of je wilt gewoon op onze erelijst terechtkomen.&#xA;Natuurlijk willen we ook een gezellige namiddag creëren.&lt;/p&gt;&#xA;&lt;p&gt;Er zijn volgende disciplines:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;enkel&lt;/li&gt;&#xA;&lt;li&gt;mix (*)&lt;/li&gt;&#xA;&lt;li&gt;dubbel heren (*)&lt;/li&gt;&#xA;&lt;li&gt;dubbel dames (*)&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;(*) Afwisselend. Het ene jaar mix en het andere jaar dubbel heren en dubbel dames.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Badmintonland</title>
+      <link>http://localhost:1313/sponsors/badmintonland/</link>
+      <pubDate>Tue, 10 Jan 2017 15:50:16 +0200</pubDate>
+      <guid>http://localhost:1313/sponsors/badmintonland/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;img/BadmintonLand_1219x339.jpg&#34; alt=&#34;Image alt&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;alle-materialen-voor-uw-badmintonsport-in-voorraad&#34;&gt;Alle materialen voor uw badmintonsport in voorraad.&lt;/h1&gt;&#xA;&lt;h2 id=&#34;ook-voor-nieuwe-snaren-in-uw-racket-het-juiste-adres&#34;&gt;Ook voor nieuwe snaren in uw racket, het juiste adres.&lt;/h2&gt;&#xA;&lt;div class=&#34;aligncenter&#34; style=&#34;text-align: center;&#34;&gt;&#xA;    &#xA;Vraag binnen de club naar Harry.&lt;br&gt;&#xA;Afhalen is mogelijk op afspraak, info@badmintonland.be of +31 (0)6 12765374&lt;br&gt;&#xA;Graafjansdijk B 197, 4554LG Westdorpe&lt;br&gt;&lt;br&gt;&#xA;&#xA;&lt;a href=&#34;https://badmintonland.be&#34; target=&#34;_new&#34; rel=&#34;noopener noreferrer&#34;&gt;badmintonland.be&lt;/a&gt;&#xA;&#xA;&lt;/div&gt;</description>
     </item>
   </channel>
 </rss>
