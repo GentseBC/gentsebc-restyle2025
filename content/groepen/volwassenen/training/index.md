@@ -1,11 +1,8 @@
 ---
 title: "Training"
-date: 2022-12-25T15:52:17+02:00
+date: 2025-08-19T12:00:00+02:00
 draft: false
 author: Secretaris
-
-aliases:
-    - /volwassenen/training/
 ---
 
 Jaarlijks worden er twee trainingssessies georganiseerd voor de *clubleden*. Enkel wie lid is van Gentse BC en in orde is met het jaarlijkse lidgeld kan hieran deelnemen.

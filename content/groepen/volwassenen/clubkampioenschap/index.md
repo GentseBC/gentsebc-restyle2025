@@ -1,6 +1,6 @@
 ---
 title: "Clubkampioenschap"
-date: 2020-05-10T09:23:22+02:00
+date: 2025-08-19T12:00:00+02:00
 draft: false
 author: 'Secretaris'
 
