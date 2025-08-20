@@ -17,6 +17,7 @@ aliases:
 | ----------- | ----------- | ----------- | ----------- |
 | volledig seizoen |  105 € |  145 € |
 {{< /table >}}
+**Contact email adres?** jeugd@gentsebc.be
 {{</ alert-box >}}
 
 {{< alert-box type="danger">}}

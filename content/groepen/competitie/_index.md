@@ -11,7 +11,7 @@ Bij de Gentse BC kan elke gemotiveerde speler met het juiste niveau competitie s
 
 {{% alert-box type="info" %}}
 Wil je graag tijdens het volgende seizoen ook deelnemen aan deze interclubcompetitie?
-Dit kan zeker. Spreek gerust de avondverantwoordelijke aan of stuur een mailtje naar onze [competitieverantwoordelijke](mailto:competitie@gentsebc.be)
+Dit kan zeker. Spreek gerust de avondverantwoordelijke aan of stuur een mailtje naar onze competitieverantwoordelijke op competitie@gentsebc.be.
 {{% /alert-box %}}
 
 {{< accordion id="1" >}}
