@@ -18,6 +18,12 @@ Dit kan zeker. Spreek gerust de avondverantwoordelijke aan of stuur een mailtje 
 {{< accordion-item parent_id="1" id="1" title="GentseBC competitie ploegen seizoen 2025-2026">}}
 {{< ploegdata >}}
 {{< /accordion-item >}}
+{{< accordion-item parent_id="1" id="2" title="Agenda">}}
+{{< gcalendar-iframe set="competitie" >}}
+{{< /accordion-item >}}
+
+
+
 {{< /accordion >}}
 
 <br>
