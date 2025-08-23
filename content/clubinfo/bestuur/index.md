@@ -12,29 +12,29 @@ Heb je een vraag, een probleem of wil je je mening over iets kwijt? Kijk op deze
 
 # Bestuursleden
 {{< container-row >}}
-{{< card-in-column img="images/Maarten-VW.jpg" title="Maarten" >}}
-Voorzitter<br>aansturing algemene werking, sponsoring en groei, aanspreekpunt VBL <br>voorzitter@gentsebc.be<br>tel. 0472/62.06.42
-{{< /card-in-column >}}
+    {{< card-in-column img="images/Maarten-VW.jpg" title="Maarten" >}}
+    <b>Voorzitter</b><br>aansturing algemene werking, sponsoring en groei, aanspreekpunt VBL <br>voorzitter@gentsebc.be<br>tel. 0472/62.06.42
+    {{< /card-in-column >}}
 
     {{< card-in-column img="images/isabelle.jpg" title="Isabelle " >}}
-      Secretaris, recreantenverantwoordelijke<br>communicatie, zaalplanning, administratie <br>secretaris@gentsebc.be<br>tel. 0485/44.89.25
+      <b>Secretaris & Recreantenverantwoordelijke</b><br>communicatie, zaalplanning, administratie <br>secretaris@gentsebc.be<br>tel. 0485/44.89.25
     {{< /card-in-column >}}
 
 
     {{< card-in-column img="images/elisa.jpg" title="Elisa " >}}
-      Penningmeester<br>financiën, begroting en jaarrekening, administratie van inkomsten en uitgaven <br>penningmeester@gentsebc.be
+      <b>Penningmeester</b><br>financiën, begroting en jaarrekening, administratie van inkomsten en uitgaven <br>penningmeester@gentsebc.be
     {{< /card-in-column >}}
 
     {{< card-in-column img="images/shuttle.jpg" title="Dimitri en Benoit" >}}
-      Jeugdverantwoordelijke<br>sportieve coördinatie jeugd, communicatie jeugd<br>jeugd@gentsebc.be
+      <b>Jeugdverantwoordelijke</b><br>sportieve coördinatie jeugd, communicatie jeugd<br>jeugd@gentsebc.be
     {{< /card-in-column >}}
 
      {{< card-in-column img="images/jera.jpeg" title="Jera" >}}
-      competitieverantwoordelijke<br>Ploegenopstelling, planning wedstrijdkalender, communicatie competitiespelers, opvolgen wedstrijdleiders<br>jeugd@gentsebc.be
+      <b>Competitieverantwoordelijke</b><br>ploegenopstelling, planning wedstrijdkalender, communicatie competitiespelers, opvolgen wedstrijdleiders<br>jeugd@gentsebc.be
     {{< /card-in-column >}}
 
      {{< card-in-column img="images/kathy.png" title="Kathy" >}}
-      G-verantwoordelijke<br>communicatie en organisatie van de G-badminton<br>gbadminton@gentsebc.be
+      <b>G-verantwoordelijke</b><br>communicatie en organisatie van de G-badminton<br>gbadminton@gentsebc.be
     {{< /card-in-column >}}
 
 
@@ -72,18 +72,19 @@ De avondverantwoordelijken zijn te bereiken op volgend emailadres: avondverantwo
       Avondverantwoordelijke
     {{< /card-in-column >}}
 
-    {{< card-in-column n="4" img="images/thomas.jpg" title="Thomas Dekeyser" >}}
-      Webmaster
-    {{< /card-in-column >}}
-
     {{< card-in-column n="4" img="images/bart.jpg" title="Bart Pauwels" >}}
       Ledenadministratie
     {{< /card-in-column >}}
 
+    {{< card-in-column n="4" img="images/thomas.jpg" title="Thomas Dekeyser" >}}
+      Webmaster
+    {{< /card-in-column >}}
+
+
 {{< /container-row >}}
 
 # Aanspreekpersoon integriteit  (API)
-Als badmintonclub proberen we een verschil te maken op vlak van integriteit en inclusie. Dit doen we oa. door een warme, sympathieke en veilige community te creëren. We hebben daarom sinds begin 2020 API’s in de club. Een belangrijke schakel in het voorkomen en opvangen van grensoverschrijdend gedrag, is een *aanspreekpunt integriteit* of *API*. Ongepast gedrag gezien of meegemaakt in de club en je wil dit melden? Dan is deze persoon het eerste aanspreekpunt waarbij je terecht kan. Wij hopen hiermee als sportclub inzetten op een veilige en respectvolle omgeving voor alle leden!
+Als badmintonclub proberen we een verschil te maken op vlak van integriteit en inclusie. Dit doen we oa. door een warme, sympathieke en veilige community te creëren. We hebben daarom sinds begin 2020 een API in de club. Een belangrijke schakel in het voorkomen en opvangen van grensoverschrijdend gedrag, is een *aanspreekpunt integriteit* of *API*. Ongepast gedrag gezien of meegemaakt in de club en je wil dit melden? Dan is deze persoon het eerste aanspreekpunt waarbij je terecht kan. Wij hopen hiermee als sportclub inzetten op een veilige en respectvolle omgeving voor alle leden!
 
 Nicole Rosnowski is de Aanspreekpersoon Integriteit van Gentse BC en stelt zich hieronder voor:
 

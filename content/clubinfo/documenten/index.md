@@ -7,7 +7,7 @@ slug : 'documenten'
 
 # Verzekering bij ongevallen
 
-De Gentse BC is verzekerd voor alle ongevallen die gebeuren op de officiële speelmomenten of indien een clublid een ongeval kreeg op weg naar huis (op voorwaarde dat er geen grote omweg wordt gemaakt). De verzekering loopt via Badminton Vlaanderen. De verzekeraar is “Arena”. Je hebt altijd een getuige nodig die jouw ongeval bevestigt.
+De Gentse BC is verzekerd voor alle ongevallen die gebeuren op de officiële speelmomenten of indien een clublid een ongeval kreeg op weg van/naar huis (op voorwaarde dat er geen grote omweg wordt gemaakt). De verzekering loopt via Badminton Vlaanderen. De verzekeraar is “Arena”. Je hebt altijd een getuige nodig die jouw ongeval bevestigt.
 
 Bij tussenkomst van de mutualiteit is de waarborg €375 per ongeval, tot 150% van het tarief van het RIZIV. Daarnaast dekken wij ook de kosten voor brillen/contactlenzen, maar enkel bij ongevallen waarbij er sprake is van vastgesteld lichamelijk letsel. Hierbij geldt een maximum van €500 per ongeval.
 

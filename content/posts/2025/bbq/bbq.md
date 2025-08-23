@@ -4,7 +4,7 @@ draft : false
 title : "BBQ 2025"
 summary: "Summertime. Schrijf je snel in voor onze gezellige BBQ."
 summary_img : "/img/posts/bbq.jpg"
-event_date: "2025-08-30T16:30:00"
+event_date: "2025-08-09T16:30:00"
 event_location: "Stedelijke basisschool De Boomgaard, Bommelstraat 24, 9000 Gent"
 categories: ['event']
 author: 'Thomas'
