@@ -2,6 +2,7 @@ baseURL = 'https://example.org/'
 languageCode = 'nl-be'
 title = 'Gentse BC'
 theme = 'gentsebc2025'
+defaultContentLanguage = 'nl'
 
 [taxonomies]
     category = 'categories'
