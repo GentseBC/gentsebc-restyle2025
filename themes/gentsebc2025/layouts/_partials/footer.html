@@ -20,6 +20,8 @@
         <div class="col-lg-6 col-md-3 footer-links">
             <h4>Nuttige Links</h4>
             <ul>
+                <li><a href="{{ .Ref (dict "path" "/speeluren") }}">Speeluren volwassenen</a></li>
+                <li><a href="{{ .Ref (dict "path" "/groepen/jeugd/") }}#speeluren">Speeluren jeugd</a></li>
                 <li><a href="{{ .Ref (dict "path" "/clubinfo/documenten") }}">Verzekering bij ongevallen</a></li>
                 <li><a href="{{ .Ref (dict "path" "/groepen/volwassenen/training/") }}">Trainingen</a></li>
                 <li><a href="{{ .Ref (dict "path" "/groepen/competitie/tornooitips/") }}">Tornooitips</a></li>
