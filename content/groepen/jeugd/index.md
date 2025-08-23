@@ -49,8 +49,13 @@ De speler kan zelf aangeven wat zijn/haar ambitie is binnen badminton. recreatie
 Er kan gekozen worden voor 1 speelmoment op woensdag of 2 speelmomenten op woensdag en zaterdag. De vaardigheden die op woensdag aangeleerd worden zijn noodzakelijk om het maximale uit de speelmomenten van zaterdag te halen.
 
 
-Er zijn geen jeugdspeelmomenten op feestdagen. In de schoolvakanties is dit afhankelijk van de beschikbaarheid van de zaal. Raadpleeg de kalender in Twizzit of de kalender op [speeluren pagina](/speeluren) voor actuele informatie of voor de dagen waarop uitzonderlijk niet kan gespeeld worden.
+Er zijn geen jeugdspeelmomenten op feestdagen. In de schoolvakanties is dit afhankelijk van de beschikbaarheid van de zaal. Raadpleeg de kalender in Twizzit of onderstaande kalender voor actuele informatie voor de dagen waarop uitzonderlijk niet kan gespeeld worden.
 (je kan ook de agenda importeren in  je smartphone)
+{{< accordion id="1" >}}
+{{< accordion-item parent_id="1" id="1" title="Agenda JEUGD">}}
+{{< gcalendar-iframe set="jeugd" >}}
+{{< /accordion-item >}}
+{{< /accordion >}}
 
 ## Afspraken
 

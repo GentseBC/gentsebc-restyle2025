@@ -1,8 +1,9 @@
-homepage:
+volwassenen:
   - agenda:
     name: 'twizzit volwassenen'
     src: '2l08prgcjs85td5d62pbi2snqm0koj6q@import.calendar.google.com'
     color: '#F6BF26'
+jeugd:
   - agenda:
     name: 'twizzit jeugd'
     src: '28slvkett57tcftbhfg6afl5dioluboh@import.calendar.google.com'

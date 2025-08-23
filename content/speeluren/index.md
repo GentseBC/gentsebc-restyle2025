@@ -25,7 +25,7 @@ Uitzonderlijk worden speelmomenten afgeschaft of verplaatst  indien bijvoorbeeld
 Ook in de zomermaanden kan er gespeeld worden. Wij zoeken dan alternatieven in een andere Gentse sporthal. Deze zomerregeling komt ook in onderstaande kalender.
 
 
-{{< gcalendar-iframe set="homepage" >}}
+{{< gcalendar-iframe set="volwassenen" >}}
 
 
 
