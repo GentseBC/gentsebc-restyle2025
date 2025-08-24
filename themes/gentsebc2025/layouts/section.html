@@ -1,29 +1,9 @@
 {{ define "main" }}
-<!-- Page Title -->
-<div class="page-title" data-aos="fade">
-    <nav class="breadcrumbs">
-        <div class="container">
-            <ol>
-                {{- range .Ancestors.Reverse }}
-                <li class="">
-                    <a href="{{ .RelPermalink }}">{{ if .IsHome }} Home {{ else }}{{ .Title }}{{ end }}</a>
-                </li>
-                <span class="" aria-hidden="true">&nbsp;»&nbsp</span>
-                {{- end }}
-                <li class="active">
-                    {{ .Title }}
-                </li>
-            </ol>
+  {{ partial "breadcrumb.html" . }}
 
-
-
-        </div>
-    </nav>
-</div><!-- End Page Title -->
-
-{{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
-{{ $dateHuman := .Date | time.Format ":date_long" }}
-{{ $author := .Params.author | default .Site.Params.author }}
+  {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
+  {{ $dateHuman := .Date | time.Format ":date_long" }}
+  {{ $author := .Params.author | default .Site.Params.author }}
 
 <div class="container mt-1">
     <div class="row">
