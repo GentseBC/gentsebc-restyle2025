@@ -5,7 +5,4 @@ title : "Groepen"
 slug : 'groepen'
 ---
 
-- [Jeugd]({{< Ref "jeugd" >}})
-- [Volwassenen]({{< Ref "volwassenen" >}})
-- [Competitie]({{< Ref "competitie" >}})
-- [G-badminton]({{< Ref "g-badminton" >}})
+{{< list-descendants >}}
